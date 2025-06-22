@@ -1,0 +1,2 @@
+The presented procedures prepare data from the source table for their subsequent incremental upload to the target system. 
+For these purposes, two new columns are created in the tables - "date of last row update" and "type of last operation"

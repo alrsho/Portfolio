@@ -1,0 +1,2 @@
+Here is an ORACLE database solution that allows logging during the execution of procedures. 
+For these purposes, a GLOBAL LOG table was created, as well as a package with global variables and an autonomous procedure for recording logs.
